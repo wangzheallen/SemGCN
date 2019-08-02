@@ -45,7 +45,7 @@ Results using two different 2D detections (Ground truth and Stacked Hourglass de
 This repository is build upon Python v2.7 and Pytorch v1.1.0 on Ubuntu 16.04. NVIDIA GPUs are needed to train and test. See [`requirements.txt`](requirements.txt) for other dependencies. We recommend installing Python v2.7 from [Anaconda](https://www.anaconda.com/), and installing Pytorch (>= 1.1.0) following guide on the [official instructions](https://pytorch.org/) according to your specific CUDA version. Then you can install dependencies with the following commands.
 
 ```
-git clone git@github.com:garyzhao/SemGCN.git
+git clone https://github.com/garyzhao/SemGCN.git
 cd SemGCN
 pip install -r requirements.txt
 ```
